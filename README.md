@@ -1,6 +1,7 @@
-<p align= "center">
-<img src= "https://capsule-render.vercel.app/api?text= Hi%There, Its%Janet!!&animation=twinkling&type=speech&color=gradient&height=100"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
 
 ## Get To Know Me
 
