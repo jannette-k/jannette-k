@@ -1,6 +1,9 @@
 ![9055844_bxl_aws_icon](https://github.com/user-attachments/assets/59f94352-32a5-4972-ad7a-d0f0b96dc968)<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hi,%20there!%20👋%20&fontSize=40&fontAlignY=35&animation=FadeIn"/>
 </p>
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud and DevOps Enthusiast!;Second+line+of+text)](https://git.io/typing-svg)
+</p>
 
 
 ## Get To Know Me
